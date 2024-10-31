@@ -1,0 +1,2 @@
+#!/bin/bash
+echo " This cave is whispering an unspoken promise of secrets hidden deep within"

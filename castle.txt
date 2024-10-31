@@ -1,0 +1,2 @@
+#!/bin/bash
+echo " Welcome to the castle where every step must be watched, follow the flames as they lead you to the vault"
